@@ -1,0 +1,45 @@
+html{
+    font-size: 32px;
+}
+p{
+    color: blue;
+    font-size: 1.5rem;
+    background-color: darkgray;
+}
+#neko{
+    color: green;
+    font-size: 16px;
+}
+#title_id{
+    color: blue;
+}
+.title_class{
+    color: green;
+}
+h1{
+    color: red;
+}
+.target{
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border: 10px solid black;
+}
+h3{
+    font-size: 3rem;
+    text-align: center;
+    padding: 2rem;
+    margin: 1.5rem;
+    color: aqua;
+    background: linear-gradient(to bottom right,black white);
+    border-radius:0.5rem;
+}
+h4 {
+ font-size: 3rem;
+ text-align: center;
+ padding: 1rem;
+ margin: 1rem;
+ color: white;
+ background: linear-gradient(to bottom right, blue, pink);
+ border-radius: 1.5rem;
+ }
